@@ -1,0 +1,19 @@
+{
+  "name": "resend-node-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:init": "jest init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "resend": "^0.10.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
